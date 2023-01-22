@@ -1,8 +1,2 @@
 # Alert-Driven Attack Graphs Dashboard
-
-Access the demo [here](http://34.203.247.225:8000/).
-## Demo credentials
-
-Username: `test`
-
-Password: `user1234`
+Access the abstract here: https://vizsec.org/files/2022/vizsec_p4_abstract.pdf
