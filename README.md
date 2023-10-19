@@ -1,2 +1,2 @@
 # Alert-Driven Attack Graphs Dashboard
-Access the abstract here: https://vizsec.org/files/2022/vizsec_p4_abstract.pdf
+Introductory video: [https://youtu.be/9RpchlogTzs](https://youtu.be/9RpchlogTzs)
